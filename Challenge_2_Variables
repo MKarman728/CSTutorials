@@ -1,0 +1,12 @@
+/* ========== *
+* Challenge 2 *
+* =========== */
+
+
+function buildSentence(word1, word2, word3) {
+  console.log(`${word1} ${word2} ${word3}.`);
+}
+
+buildSentence("coding", "is", "awesome") //=> "Coding is awesome."
+buildSentence("we're", "number", "1") //=> "We're number 1."
+
